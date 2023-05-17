@@ -16,6 +16,6 @@ This project examines the factors influencing house rental prices. We analyze th
 In this project, we explore the relationships between different features in the Netflix Titles dataset. By conducting basic descriptions, handling missing values, and investigating outliers and correlations, we gain insights into patterns and associations among various attributes. This analysis helps us understand the characteristics of the Netflix content library.
 Each project follows a similar approach:
 
-Basic Description and Handling of Missing Values: We start by gaining a basic understanding of the dataset's structure and handling any missing values.
-Basic Descriptions: We explore key statistics, distributions, and visualizations to gain insights into the data.
-Outliers and Correlation: We investigate outliers and analyze correlations between variables to identify any interesting relationships.
+- Basic Description and Handling of Missing Values: We start by gaining a basic understanding of the dataset's structure and handling any missing values.
+- Basic Visualization: We explore key statistics, distributions, and visualizations to gain insights into the data.
+- Outliers and Correlation: We investigate outliers and analyze correlations between variables to identify any interesting relationships.
